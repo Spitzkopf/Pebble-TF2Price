@@ -28,4 +28,4 @@ node_modules
 .lock-wscript
 
 #apikeys
-apikeys.js
+src/apikeys.js
